@@ -1,0 +1,6 @@
+{
+  "name": "Ethiopia Illuminati Agency",
+  "description": "An exclusive, admin-verified access portal designed for high-level secure communications and agency-authorized engagements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

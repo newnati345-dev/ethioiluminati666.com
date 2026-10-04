@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="10" y1="10" x2="90" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#fef08a" />
+      <stop offset="35%" stopColor="#fbbf24" />
+      <stop offset="70%" stopColor="#d97706" />
+      <stop offset="100%" stopColor="#92400e" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="#08090d"/>
+  <polygon points="25,26 75,26 92,48 50,90 8,48" stroke="url(#goldGrad)" stroke-width="4" stroke-linejoin="round" fill="#141824"/>
+  <line x1="25" y1="26" x2="35" y2="48" stroke="url(#goldGrad)" stroke-width="3" />
+  <line x1="75" y1="26" x2="65" y2="48" stroke="url(#goldGrad)" stroke-width="3" />
+  <line x1="8" y1="48" x2="92" y2="48" stroke="url(#goldGrad)" stroke-width="3" />
+  <polygon points="35,48 65,48 50,90" stroke="url(#goldGrad)" stroke-width="3" fill="#f59e0b" fill-opacity="0.3"/>
+</svg>
